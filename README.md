@@ -4,7 +4,15 @@
 * Learning tech 📓
 * Videogames 🎮
 * IA / Neuroscience 🧠
+
+## Im corrently working on "Pomme" project
+
+
 Proffesional Github @jjpopocaw
+
+* https://github.com/poposhca/pomme-front
+* https://github.com/poposhca/pomme-socket-server
+* https://github.com/poposhca/pomme-api
 
 <!---
 poposhca/poposhca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
