@@ -5,14 +5,26 @@
 * Videogames 🎮
 * IA / Neuroscience 🧠
 
-## Im corrently working on "Pomme" project
+### I'm also as @jjpopocaw
+
+# My Projects
 
 
-Proffesional Github @jjpopocaw
+## Pomme
+
+An active learning engine for learning platforms
 
 * https://github.com/poposhca/pomme-front
 * https://github.com/poposhca/pomme-socket-server
 * https://github.com/poposhca/pomme-api
+
+## My Finance (TBD)
+
+An easy budget system for personal finances
+
+## ML Notes
+
+TODO
 
 <!---
 poposhca/poposhca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
